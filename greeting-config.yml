@@ -1,7 +1,8 @@
 logging:
   level:
-    io:
-      pivotal: DEBUG
+    com:
+      example:
+        testgreetingconfig: DEBUG
 
 greeting:
   displayFortune: false
