@@ -1,0 +1,10 @@
+logging:
+  level:
+    com:
+      example:
+        testgreetingconfig: DEBUG
+
+greeting:
+  displayFortune: true
+
+quoteServiceURL: http://quote-service-qa.cfapps.io/quote
