@@ -15,4 +15,4 @@ logging:
 greeting:
   displayFortune: true
 
-quoteServiceURL: git@github.com:abiscayart/app-config.git
+quoteServiceURL: http://quote-service-qa.cfapps.io/quote
