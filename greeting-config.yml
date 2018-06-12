@@ -8,9 +8,8 @@ management:
 
 logging:
   level:
-    com:
-      example:
-        testgreetingconfig: DEBUG
+    io:
+      pivotal: DEBUG
 
 greeting:
   displayFortune: true
