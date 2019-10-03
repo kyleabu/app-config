@@ -1,0 +1,7 @@
+{
+	"count": 1,
+	"git": {
+		"label": "master",
+		"uri": "https://github.com/qaistars/app-config"
+	}
+}
