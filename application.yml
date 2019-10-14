@@ -12,3 +12,7 @@ logging:
       pivotal: DEBUG
       
 qais: pcf
+
+sprx:
+  configurationName: my configuration
+  token: ENC(eD4k72SDLnIleih1dSUTEH7FAqwlp2Nb)
